@@ -2,8 +2,6 @@
 
 This monorepo is setup with my preferred boilerplate for building NodeJS React projects.
 
-If you prefer to use a different frontend framework you can easily [remove react](#use-a-different-frontend-framework) and install the dependencies for your preferred library.
-
 ## Getting started
 
 **Clone this repo locally**
